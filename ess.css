@@ -1,0 +1,17 @@
+body{
+	background-color: #FFFB7C;
+}
+
+.nom{
+	font-family: Yummy;
+	font-size: 35px;
+	color: #0C1CE9;
+	text-align: center; 
+}
+
+.tit{
+	font-family: Yummy;
+	font-size: 25px;
+	color: #000000;
+	text-align: left;
+}
